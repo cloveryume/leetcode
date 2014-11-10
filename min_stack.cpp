@@ -1,5 +1,4 @@
 #include <stack>
-#include <iostream>
 
 struct MinusElem
 {
